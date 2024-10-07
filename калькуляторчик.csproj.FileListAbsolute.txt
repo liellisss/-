@@ -1,0 +1,32 @@
+C:\Users\61905\source\repos\калькуляторчик\bin\Debug\калькуляторчик.exe.config
+C:\Users\61905\source\repos\калькуляторчик\bin\Debug\калькуляторчик.exe
+C:\Users\61905\source\repos\калькуляторчик\bin\Debug\калькуляторчик.pdb
+C:\Users\61905\source\repos\калькуляторчик\obj\Debug\калькуляторчик.csproj.AssemblyReference.cache
+C:\Users\61905\source\repos\калькуляторчик\obj\Debug\калькуляторчик.csproj.SuggestedBindingRedirects.cache
+C:\Users\61905\source\repos\калькуляторчик\obj\Debug\калькуляторчик.Form1.resources
+C:\Users\61905\source\repos\калькуляторчик\obj\Debug\калькуляторчик.Properties.Resources.resources
+C:\Users\61905\source\repos\калькуляторчик\obj\Debug\калькуляторчик.csproj.GenerateResource.cache
+C:\Users\61905\source\repos\калькуляторчик\obj\Debug\калькуляторчик.csproj.CoreCompileInputs.cache
+C:\Users\61905\source\repos\калькуляторчик\obj\Debug\калькуляторчик.exe
+C:\Users\61905\source\repos\калькуляторчик\obj\Debug\калькуляторчик.pdb
+C:\Users\61703\Downloads\калькуляторчик\калькуляторчик\bin\Debug\калькуляторчик.exe.config
+C:\Users\61703\Downloads\калькуляторчик\калькуляторчик\bin\Debug\калькуляторчик.exe
+C:\Users\61703\Downloads\калькуляторчик\калькуляторчик\bin\Debug\калькуляторчик.pdb
+C:\Users\61703\Downloads\калькуляторчик\калькуляторчик\obj\Debug\калькуляторчик.csprojAssemblyReference.cache
+C:\Users\61703\Downloads\калькуляторчик\калькуляторчик\obj\Debug\калькуляторчик.Form1.resources
+C:\Users\61703\Downloads\калькуляторчик\калькуляторчик\obj\Debug\калькуляторчик.Properties.Resources.resources
+C:\Users\61703\Downloads\калькуляторчик\калькуляторчик\obj\Debug\калькуляторчик.csproj.GenerateResource.cache
+C:\Users\61703\Downloads\калькуляторчик\калькуляторчик\obj\Debug\калькуляторчик.csproj.CoreCompileInputs.cache
+C:\Users\61703\Downloads\калькуляторчик\калькуляторчик\obj\Debug\калькуляторчик.exe
+C:\Users\61703\Downloads\калькуляторчик\калькуляторчик\obj\Debug\калькуляторчик.pdb
+C:\Users\dimak\Downloads\Telegram Desktop\калькуляторчик\калькуляторчик\bin\Debug\калькуляторчик.exe.config
+C:\Users\dimak\Downloads\Telegram Desktop\калькуляторчик\калькуляторчик\bin\Debug\калькуляторчик.exe
+C:\Users\dimak\Downloads\Telegram Desktop\калькуляторчик\калькуляторчик\bin\Debug\калькуляторчик.pdb
+C:\Users\dimak\Downloads\Telegram Desktop\калькуляторчик\калькуляторчик\obj\Debug\калькуляторчик.csproj.AssemblyReference.cache
+C:\Users\dimak\Downloads\Telegram Desktop\калькуляторчик\калькуляторчик\obj\Debug\калькуляторчик.csproj.SuggestedBindingRedirects.cache
+C:\Users\dimak\Downloads\Telegram Desktop\калькуляторчик\калькуляторчик\obj\Debug\калькуляторчик.Form1.resources
+C:\Users\dimak\Downloads\Telegram Desktop\калькуляторчик\калькуляторчик\obj\Debug\калькуляторчик.Properties.Resources.resources
+C:\Users\dimak\Downloads\Telegram Desktop\калькуляторчик\калькуляторчик\obj\Debug\калькуляторчик.csproj.GenerateResource.cache
+C:\Users\dimak\Downloads\Telegram Desktop\калькуляторчик\калькуляторчик\obj\Debug\калькуляторчик.csproj.CoreCompileInputs.cache
+C:\Users\dimak\Downloads\Telegram Desktop\калькуляторчик\калькуляторчик\obj\Debug\калькуляторчик.exe
+C:\Users\dimak\Downloads\Telegram Desktop\калькуляторчик\калькуляторчик\obj\Debug\калькуляторчик.pdb
